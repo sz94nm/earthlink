@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WpfApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connection_String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\sz94n\source\repos\WpfApp1\WpfApp1\_data\db.mdf;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="new_connection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=./SQLEXPRESS;Database=customers-data</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
